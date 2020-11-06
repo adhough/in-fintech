@@ -19,11 +19,11 @@ function ContactSection() {
       <a href="mailto:adhough@hotmail.com" target="_top">  adhough@hotmail.com </a></p>
       <br />
       <br />
-      <p>LinkedIn : <a href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank">www.linkedin.com/in/adrian-hough-528b7b</a></p>
+      <p>LinkedIn : <a href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank" rel="noreferrer">www.linkedin.com/in/adrian-hough-528b7b</a></p>
       <br />
       <br />
       <p>twitter :    <a href="https://twitter.com/@adhough_London"
-        target="_blank">@adhough_London</a>
+        target="_blank" rel="noreferrer">@adhough_London</a>
       </p>
       <br />
 

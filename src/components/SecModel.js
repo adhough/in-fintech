@@ -23,7 +23,7 @@ Recovery of Defaulted assets is set at 50% and is recognised in the same month a
 This website was developed using Python, Numpy, Pandas, Flask and deployed using Heroku.
 </p>
 <br />
-<a href="https://secmodel.herokuapp.com/" target="_blank">https://secmodel.herokuapp.com/</a>
+<a href="https://secmodel.herokuapp.com/" target="_blank" rel="noreferrer">https://secmodel.herokuapp.com/</a>
     </div>
 
     <div className='values-btns'>

@@ -19,7 +19,7 @@
 }
 
 .navbar-logo {
-  /* background: url('/images/HoughFintechcopy.png') center center/cover no-repeat; */
+
   height: 80px;
   width: 240px;
   display: flex;
@@ -35,7 +35,7 @@
 }
 
 .navbar-icon {
-  background: url('/images/HoughFintechcopy.png') center center/cover no-repeat;
+  background: src="/images/HoughFintechcopy.png" center center/cover no-repeat;
   height: 80%;
   width: 30%;
   display: flex;

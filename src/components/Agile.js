@@ -19,7 +19,7 @@ function AgileSection() {
 <p>This website is designed to be an easy way to store and manage project Epics and Stories - enter username ‘demo_user’ and password ‘read_only’ to view.  Developed using Python, Django, PostgreSQL and launched using Heroku.
 </p>
 <br />
-<a href="https://agile-project-tracker.herokuapp.com/tracker/" target="_blank">https://agile-project-tracker.herokuapp.com/tracker/</a>
+<a href="https://agile-project-tracker.herokuapp.com/tracker/" target="_blank" rel="noreferrer">https://agile-project-tracker.herokuapp.com/tracker/</a>
 
     </div>
     <div className='values-btns'>

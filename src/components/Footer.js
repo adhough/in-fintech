@@ -28,7 +28,7 @@ function Footer() {
           </a>
             <a
               class='social-icon-link linkedin'
-              href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank">
+              href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank" rel="noreferrer">
 
               <i class='fab fa-linkedin' />
             </a>
@@ -37,6 +37,7 @@ function Footer() {
               class='social-icon-link twitter'
               href="https://twitter.com/@adhough_London"
               target="_blank"
+              rel="noreferrer"
             >
               <i class='fab fa-twitter' />
             </a>
