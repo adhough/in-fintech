@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/in-fintech/static/css/main.ad5ab2d2.chunk.css",
+    "main.js": "/in-fintech/static/js/main.d8f57baa.chunk.js",
+    "main.js.map": "/in-fintech/static/js/main.d8f57baa.chunk.js.map",
+    "runtime-main.js": "/in-fintech/static/js/runtime-main.10d9e516.js",
+    "runtime-main.js.map": "/in-fintech/static/js/runtime-main.10d9e516.js.map",
+    "static/js/2.efe3400d.chunk.js": "/in-fintech/static/js/2.efe3400d.chunk.js",
+    "static/js/2.efe3400d.chunk.js.map": "/in-fintech/static/js/2.efe3400d.chunk.js.map",
+    "index.html": "/in-fintech/index.html",
+    "static/css/main.ad5ab2d2.chunk.css.map": "/in-fintech/static/css/main.ad5ab2d2.chunk.css.map",
+    "static/js/2.efe3400d.chunk.js.LICENSE.txt": "/in-fintech/static/js/2.efe3400d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10d9e516.js",
+    "static/js/2.efe3400d.chunk.js",
+    "static/css/main.ad5ab2d2.chunk.css",
+    "static/js/main.d8f57baa.chunk.js"
+  ]
+}
