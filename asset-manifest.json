@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/in-fintech/static/css/main.294da2e2.chunk.css",
+    "main.css": "/in-fintech/static/css/main.5a887380.chunk.css",
     "main.js": "/in-fintech/static/js/main.47e6d3d3.chunk.js",
     "main.js.map": "/in-fintech/static/js/main.47e6d3d3.chunk.js.map",
     "runtime-main.js": "/in-fintech/static/js/runtime-main.10d9e516.js",
@@ -8,14 +8,14 @@
     "static/js/2.efe3400d.chunk.js": "/in-fintech/static/js/2.efe3400d.chunk.js",
     "static/js/2.efe3400d.chunk.js.map": "/in-fintech/static/js/2.efe3400d.chunk.js.map",
     "index.html": "/in-fintech/index.html",
-    "static/css/main.294da2e2.chunk.css.map": "/in-fintech/static/css/main.294da2e2.chunk.css.map",
+    "static/css/main.5a887380.chunk.css.map": "/in-fintech/static/css/main.5a887380.chunk.css.map",
     "static/js/2.efe3400d.chunk.js.LICENSE.txt": "/in-fintech/static/js/2.efe3400d.chunk.js.LICENSE.txt",
     "static/media/EntrySection.css": "/in-fintech/static/media/Image1.a7e0869f.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.10d9e516.js",
     "static/js/2.efe3400d.chunk.js",
-    "static/css/main.294da2e2.chunk.css",
+    "static/css/main.5a887380.chunk.css",
     "static/js/main.47e6d3d3.chunk.js"
   ]
 }
