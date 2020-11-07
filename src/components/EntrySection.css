@@ -7,7 +7,7 @@ video {
 }
 
 .entry-container {
-  background: url("..../build/images/Image1.jpeg") center center/cover no-repeat;
+  background: src= "/Image1.jpeg" alt="image1" center center/cover no-repeat;
   height: 100vh;
   width: 100%;
   display: flex;
