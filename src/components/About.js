@@ -19,7 +19,7 @@ function AboutSection() {
     <div className='about-adrian-container'>
 
     <br />
-    <img url('/public/images/Adrian.png') alt="Adrian"></img>
+    <img src='/images/Adrian.png' alt="Adrian"></img>
     <br />
     <h3>Adrian Hough, BCom, MBA</h3>
 
