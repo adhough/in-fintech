@@ -3,12 +3,13 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './Fintech.css';
+import  Presentation from '../images/Presentation.jpg'
 
 function FintechSection() {
   return (
     <div className='fintech-container'>
     <h1>Breaking into Fintech</h1>
-    <img src="../images/Presentation.jpg" alt="presentation"></img>
+    <img src={Presentation} alt="presentation"></img>
       <div className='fin-article-container'>
 
 

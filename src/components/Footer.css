@@ -122,6 +122,9 @@
 
 .social-logo {
   background: url(../images/HoughFintechcopy.png);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
   height: 30px;
   width: 30px;
 
