@@ -3,12 +3,13 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './Ethics.css';
+import Ethics from '../images/Ethics.jpeg'
 
 function FintechSection() {
   return (
     <div className='ethics-container'>
     <h1>Values and Ethics in Fintech</h1>
-    <img src="../images/Ethics.jpeg" alt="ethics"></img>
+    <img src={Ethics} alt="ethics"></img>
       <div className='ethics-article-container'>
 
 

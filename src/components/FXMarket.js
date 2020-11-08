@@ -3,12 +3,13 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './FXMarket.css';
+import FXMarket from '../images/FXMarket.jpeg'
 
 function FXMarketSection() {
   return (
     <div className='fxmarket-container'>
     <h1>Foreign Exchange: Background and Opportunities</h1>
-    <img src="/images/FXmarket.jpeg" alt="fx"></img>
+    <img src={FXMarket} alt="fx"></img>
       <div className='fx-article-container'>
 
 

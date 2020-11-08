@@ -3,12 +3,13 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ArticlesButton';
 import './OpenBanking.css';
+import London from '../images/London.jpg'
 
 function OpenBankingSection() {
   return (
     <div className='openbanking-container'>
     <h1>What is Open Banking?</h1>
-    <img src="../images/London.jpg" alt="london"></img>
+    <img src={London} alt="london"></img>
       <div className='open-article-container'>
 
 

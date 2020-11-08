@@ -3,6 +3,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ProjectsButton';
 import './AvgLibor.css';
+import Libor from '../images/Libor.jpeg'
 
 function AvgLiborSection() {
   return (
@@ -14,7 +15,7 @@ function AvgLiborSection() {
 <h3>(First released March 2020)</h3>
 
 <br />
-<img src='../images/Libor.jpeg'/>
+<img src={Libor}/>
 <br />
 <p>This website allows user to select a start and end date to estimate Average One Month US Libor and Cost of Carry.  This website was developed using Python, Django, PostgreSQL and launched using Heroku.
 </p>
