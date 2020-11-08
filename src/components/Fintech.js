@@ -8,7 +8,7 @@ function FintechSection() {
   return (
     <div className='fintech-container'>
     <h1>Breaking into Fintech</h1>
-    <img src="/images/Presentation.jpg" alt="presentation"></img>
+    <img src="../images/Presentation.jpg" alt="presentation"></img>
       <div className='fin-article-container'>
 
 

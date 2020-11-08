@@ -8,7 +8,7 @@ function FintechSection() {
   return (
     <div className='ethics-container'>
     <h1>Values and Ethics in Fintech</h1>
-    <img src="/images/Ethics.jpeg" alt="ethics"></img>
+    <img src="../images/Ethics.jpeg" alt="ethics"></img>
       <div className='ethics-article-container'>
 
 

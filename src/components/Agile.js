@@ -14,7 +14,7 @@ function AgileSection() {
 <h3>(First released March 2020)</h3>
 
 <br />
-<img src='images/Agile.jpeg'/>
+<img src='../images/Agile.jpeg'/>
 <br />
 <p>This website is designed to be an easy way to store and manage project Epics and Stories - enter username ‘demo_user’ and password ‘read_only’ to view.  Developed using Python, Django, PostgreSQL and launched using Heroku.
 </p>

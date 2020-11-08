@@ -2,6 +2,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ProjectsButton';
 import './Values.css';
+import Image4 from '../images/Image4.jpeg'
 
 function ValuesSection() {
   return (
@@ -10,7 +11,7 @@ function ValuesSection() {
     <div className='values-text-container'>
 
     <br />
-    <img src="/images/Image4.jpeg" alt="forest"></img>
+    <img src={Image4} alt="forest" />
     <br />
 
     <br />

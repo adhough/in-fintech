@@ -8,7 +8,7 @@ function OpenBankingSection() {
   return (
     <div className='openbanking-container'>
     <h1>What is Open Banking?</h1>
-    <img src="/images/London.jpg" alt="london"></img>
+    <img src="../images/London.jpg" alt="london"></img>
       <div className='open-article-container'>
 
 

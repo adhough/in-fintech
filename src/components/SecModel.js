@@ -13,7 +13,7 @@ function SecModelSection() {
 
 <h3>(First released March 2020)</h3>
 <br />
-<img src='images/SecModel.jpeg'/>
+<img src='../images/SecModel.jpeg'/>
 <br />
 <p>This Securitisation model calculates cash flows and the annual Internal Rate of Returns (IRR) for an Asset Portfolio, Senior Bond (90% of Asset Portfolio) and Subordinated Loan (10% of Asset Portfolio). The Maturity is set at 30 years and Repayments are pro-rata and monthly.
 

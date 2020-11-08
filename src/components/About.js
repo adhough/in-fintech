@@ -3,6 +3,7 @@ import React from 'react';
 import '../App.css';
 import { Button } from './ValuesButton';
 import './About.css';
+import AdrianPhoto from '../images/Adrian.png'
 
 function AboutSection() {
   return (
@@ -19,7 +20,7 @@ function AboutSection() {
     <div className='about-adrian-container'>
 
     <br />
-    <img src='/images/Adrian.png' alt="Adrian"></img>
+    <img src={AdrianPhoto} alt="Adrian" /> 
     <br />
     <h3>Adrian Hough, BCom, MBA</h3>
 
