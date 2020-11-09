@@ -20,13 +20,11 @@ function ArticleSection() {
             <CardItem
               src={Presentation}
               text='Breaking into Fintech'
-              // label='Fintech'
               path='/fintech'
             />
             <CardItem
               src={London}
               text='What is Open Banking?'
-              // label='Open Banking'
               path='/openbanking'
             />
             </ul>
@@ -34,13 +32,11 @@ function ArticleSection() {
             <CardItem
               src={FXMarket}
               text='Foreign Exchange: Background and Opportunities'
-              // label='Foreign Exchange'
               path='/fxmarket'
             />
             <CardItem
               src={Ethics}
               text='Values and Ethics in Fintech'
-              // label='Ethics'
               path='/ethics'
             />
 
