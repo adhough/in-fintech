@@ -1,6 +1,7 @@
 {
   "files": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "main.css": "/static/css/main.bc786cfd.chunk.css",
     "main.js": "/static/js/main.ec08ddfd.chunk.js",
     "main.js.map": "/static/js/main.ec08ddfd.chunk.js.map",
@@ -27,12 +28,17 @@
     "main.css": "/in-fintech/static/css/main.bcacf833.chunk.css",
     "main.js": "/in-fintech/static/js/main.0dd25529.chunk.js",
     "main.js.map": "/in-fintech/static/js/main.0dd25529.chunk.js.map",
+=======
+    "main.css": "/in-fintech/static/css/main.d9bc2de4.chunk.css",
+    "main.js": "/in-fintech/static/js/main.08712aac.chunk.js",
+    "main.js.map": "/in-fintech/static/js/main.08712aac.chunk.js.map",
+>>>>>>> Updates
     "runtime-main.js": "/in-fintech/static/js/runtime-main.10d9e516.js",
     "runtime-main.js.map": "/in-fintech/static/js/runtime-main.10d9e516.js.map",
     "static/js/2.efe3400d.chunk.js": "/in-fintech/static/js/2.efe3400d.chunk.js",
     "static/js/2.efe3400d.chunk.js.map": "/in-fintech/static/js/2.efe3400d.chunk.js.map",
     "index.html": "/in-fintech/index.html",
-    "static/css/main.bcacf833.chunk.css.map": "/in-fintech/static/css/main.bcacf833.chunk.css.map",
+    "static/css/main.d9bc2de4.chunk.css.map": "/in-fintech/static/css/main.d9bc2de4.chunk.css.map",
     "static/js/2.efe3400d.chunk.js.LICENSE.txt": "/in-fintech/static/js/2.efe3400d.chunk.js.LICENSE.txt",
     "static/media/Adrian.844a6a59.png": "/in-fintech/static/media/Adrian.844a6a59.png",
     "static/media/Agile.7107127b.jpeg": "/in-fintech/static/media/Agile.7107127b.jpeg",
@@ -52,11 +58,16 @@
     "static/js/runtime-main.196e96c5.js",
     "static/js/2.efe3400d.chunk.js",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "static/css/main.bc786cfd.chunk.css",
     "static/js/main.ec08ddfd.chunk.js"
 =======
     "static/css/main.bcacf833.chunk.css",
     "static/js/main.0dd25529.chunk.js"
+>>>>>>> Updates
+=======
+    "static/css/main.d9bc2de4.chunk.css",
+    "static/js/main.08712aac.chunk.js"
 >>>>>>> Updates
   ]
 }
