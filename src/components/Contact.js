@@ -36,7 +36,8 @@ function ContactSection() {
         target="_blank"
         rel="noreferrer"
       >
-        <i class='fab fa-twitter' /><p> :    <a href="https://twitter.com/@adhough_London"
+        <i class='fab fa-twitter' />
+        </a><p> :    <a href="https://twitter.com/@adhough_London"
         target="_blank" rel="noreferrer">@adhough_London</a>
       </p>
       <br />
