@@ -71,6 +71,11 @@ video {
   margin-left: 4px;
 }
 
+.social-icon-contactlink {
+  color: black;
+  font-size: 40px;
+}
+
 @media screen and (max-width: 960px) {
   .contact-container > h1 {
     font-size: 70px;
