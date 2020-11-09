@@ -15,14 +15,28 @@ function ContactSection() {
 
       <br />
       <br />
-      <p>Email :
+      <a class='social-icon-link email' href="mailto:adhough@hotmail.com" target="_top">
+        <i class='fas fa-envelope' />
+      </a>
+      <p> :
       <a href="mailto:adhough@hotmail.com" target="_top">  adhough@hotmail.com </a></p>
       <br />
       <br />
-      <p>LinkedIn : <a href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank" rel="noreferrer">www.linkedin.com/in/adrian-hough-528b7b</a></p>
+      <a
+        class='social-icon-link linkedin'
+        href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank" rel="noreferrer">
+
+        <i class='fab fa-linkedin' />
+      </a><p> : <a href="https://www.linkedin.com/in/adrian-hough-528b7b" target="_blank" rel="noreferrer">www.linkedin.com/in/adrian-hough-528b7b</a></p>
       <br />
       <br />
-      <p>twitter :    <a href="https://twitter.com/@adhough_London"
+      <a
+        class='social-icon-link twitter'
+        href="https://twitter.com/@adhough_London"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <i class='fab fa-twitter' /><p> :    <a href="https://twitter.com/@adhough_London"
         target="_blank" rel="noreferrer">@adhough_London</a>
       </p>
       <br />
