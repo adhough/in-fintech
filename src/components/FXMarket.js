@@ -9,6 +9,17 @@ function FXMarketSection() {
   return (
     <div className='fxmarket-container'>
 
+    <div className='project-btns'>
+    <Button
+      className='btns'
+      buttonStyle='btn--outline'
+      buttonSize='btn--large'
+    >
+      ARTICLES
+      </Button>
+
+      </div>
+
     <img src={FXMarket} alt="fx"></img>
       <div className='fx-article-container'>
 

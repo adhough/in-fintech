@@ -9,6 +9,17 @@ function OpenBankingSection() {
   return (
     <div className='openbanking-container'>
 
+    <div className='project-btns'>
+    <Button
+      className='btns'
+      buttonStyle='btn--outline'
+      buttonSize='btn--large'
+    >
+      ARTICLES
+      </Button>
+
+      </div>
+
     <img src={London} alt="london"></img>
       <div className='open-article-container'>
 

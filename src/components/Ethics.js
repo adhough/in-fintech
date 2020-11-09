@@ -9,6 +9,17 @@ function FintechSection() {
   return (
     <div className='ethics-container'>
 
+    <div className='project-btns'>
+    <Button
+      className='btns'
+      buttonStyle='btn--outline'
+      buttonSize='btn--large'
+    >
+      ARTICLES
+      </Button>
+
+      </div>
+
     <img src={Ethics} alt="ethics"></img>
       <div className='ethics-article-container'>
 

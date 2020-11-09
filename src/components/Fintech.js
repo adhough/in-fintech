@@ -8,7 +8,16 @@ import  Presentation from '../images/Presentation.jpg'
 function FintechSection() {
   return (
     <div className='fintech-container'>
+    <div className='project-btns'>
+    <Button
+      className='btns'
+      buttonStyle='btn--outline'
+      buttonSize='btn--large'
+    >
+      ARTICLES
+      </Button>
 
+      </div>
     <img src={Presentation} alt="presentation"></img>
       <div className='fin-article-container'>
 
