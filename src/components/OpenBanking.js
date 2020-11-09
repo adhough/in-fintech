@@ -8,11 +8,11 @@ import London from '../images/London.jpg'
 function OpenBankingSection() {
   return (
     <div className='openbanking-container'>
-    <h1>What is Open Banking?</h1>
+
     <img src={London} alt="london"></img>
       <div className='open-article-container'>
 
-
+<h1>What is Open Banking?</h1>
 <h3>(First published July 2020)</h3>
 <br />
 <p>Over the last few decades, banks have not been disrupted to the same degree which industries such as media and retail have experienced.  Many consumers had their bank accounts set up when they were a child and then go on to use their bank’s products and services for the majority of their financial needs. This near monopoly over transaction history made it difficult for customers to actively seek out better financial deals and has resulted in minimal competition between banks.  Regulators around the world are encouraging Open Banking to increase competition and promote innovation and it is set to revolutionise financial services. However, what is Open Banking and how will it impact consumers, banks and Fintech start-ups over the coming years?

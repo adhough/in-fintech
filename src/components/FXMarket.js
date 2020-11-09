@@ -8,11 +8,11 @@ import FXMarket from '../images/FXMarket.jpeg'
 function FXMarketSection() {
   return (
     <div className='fxmarket-container'>
-    <h1>Foreign Exchange: Background and Opportunities</h1>
+
     <img src={FXMarket} alt="fx"></img>
       <div className='fx-article-container'>
 
-
+<h1>Foreign Exchange: Background and Opportunities</h1>
 <h3>(Published September 2020)</h3>
 <br />
 <p>Ten years ago, I analysed and reported the market risk exposure and profit and loss for the Foreign Exchange (FX) desk at a leading Investment Bank.  It is a really fascinating market because so many factors can lead to changes in FX rates.  With daily transaction volumes in the trillions, the FX market is the largest financial market in the world. Participants include governments, banks, international corporations, hedge funds and individual investors. Over the last decade, this market has also been disrupted by new technology and Fintech platforms.

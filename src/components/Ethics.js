@@ -8,11 +8,11 @@ import Ethics from '../images/Ethics.jpeg'
 function FintechSection() {
   return (
     <div className='ethics-container'>
-    <h1>Values and Ethics in Fintech</h1>
+
     <img src={Ethics} alt="ethics"></img>
       <div className='ethics-article-container'>
 
-
+<h1>Values and Ethics in Fintech</h1>
 <h3>(Published October 2020)</h3>
 <br />
 <p><b>“Wirecard says €1.9bn of cash is missing”, Financial Times, 18th June 2020[1]</b>
