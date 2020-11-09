@@ -21,7 +21,7 @@ video {
   object-fit: contain;
 }
 .contact-container > h1 {
-  color: #bfc2c1;
+  color: #fff;
   font-size: 60px;
   margin-top: 5vh;
 }
@@ -47,7 +47,7 @@ video {
 }
 .contact-text-container {
 
-  background-color: #bfc2c1;
+  background-color: #fff;
   height: 50%;
   width: 40%;
   display: flex;
