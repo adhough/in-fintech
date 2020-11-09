@@ -19,13 +19,13 @@ function ProjectSection() {
       <CardItem
         src={Agile}
         text='Agile Project Tracker'
-        label='Agile'
+        // label='Agile'
         path='/agile'
       />
       <CardItem
         src={Libor}
         text='Average Libor Estimator'
-        label='Libor'
+        // label='Libor'
         path='/avglibor'
       />
       </ul>
@@ -33,13 +33,13 @@ function ProjectSection() {
       <CardItem
         src={SecModel}
         text='Securitisation Model'
-        label='Securitisation'
+        // label='Securitisation'
         path='/secmodel'
       />
       <CardItem
         src={FXModel}
         text='FX Risk Model'
-        label='FX Risk'
+        // label='FX Risk'
         path='/fxrisk'
       />
 

@@ -12,7 +12,7 @@ function SecModelSection() {
       <div className='secmodel-project-container'>
 
 
-<h3>(First released March 2020)</h3>
+
 <br />
 <img src={SecModel}/>
 <br />
@@ -25,6 +25,8 @@ This website was developed using Python, Numpy, Pandas, Flask and deployed using
 </p>
 <br />
 <a href="https://secmodel.herokuapp.com/" target="_blank" rel="noreferrer">https://secmodel.herokuapp.com/</a>
+<br />
+<h3>(First released March 2020)</h3>
     </div>
 
     <div className='values-btns'>

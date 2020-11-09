@@ -20,12 +20,12 @@ function AboutSection() {
     <div className='about-adrian-container'>
 
     <br />
-    <img src={AdrianPhoto} alt="Adrian" /> 
+    <img src={AdrianPhoto} alt="Adrian" />
     <br />
     <h3>Adrian Hough, BCom, MBA</h3>
 
     <br />
-    <p>Aussie-Brit who lives in London.  Finance, Risk and Change professional with experience working at Deutsche Bank, Centrica Energy, RBC Capital and Bank of America.  Successfully delivered projects across Commodities, Structured Finance, Derivatives, Fixed Income and Emerging Markets businesses.</p>
+    <p>Finance and Technology professional who scopes, designs and delivers change management programmes across a diverse range of asset classes. Successful track record in implementing Risk and Financial Management process improvements, positively impacting businesses with multi-billion risk exposure in a constantly changing regulatory environment.</p>
     <br />
     </div>
     </div>

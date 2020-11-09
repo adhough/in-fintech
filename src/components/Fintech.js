@@ -8,11 +8,11 @@ import  Presentation from '../images/Presentation.jpg'
 function FintechSection() {
   return (
     <div className='fintech-container'>
-    <h1>Breaking into Fintech</h1>
+
     <img src={Presentation} alt="presentation"></img>
       <div className='fin-article-container'>
 
-
+<h1>Breaking into Fintech</h1>
 <h3>(First published June 2020)</h3>
 <br />
 <p>I want to work in Fintech to improve the quality of Risk and Financial Management, increase the range, effectiveness and availability of Financial Products and help to make working in Financial Services a more interesting and enjoyable experience. I left my role in Investment Banking in August 2019 to pursue a career in Fintech having worked in the City of London for almost two decades. It was a bold move. For anyone considering a similar career move, this article is an honest accountof my experiences so far and I hope it provides useful information.

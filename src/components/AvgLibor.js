@@ -12,15 +12,17 @@ function AvgLiborSection() {
       <div className='avglibor-project-container'>
 
 
-<h3>(First released March 2020)</h3>
+
 
 <br />
 <img src={Libor}/>
 <br />
-<p>This website allows user to select a start and end date to estimate Average One Month US Libor and Cost of Carry.  This website was developed using Python, Django, PostgreSQL and launched using Heroku.
+<p>This tool estimates Average One Month US Libor and Cost of Carry after the user selects a start and end date.  This website was developed using Python, Django, PostgreSQL and launched using Heroku.
 </p>
 <br />
 <a href="https://avglibor.herokuapp.com/estimator/" target="_blank" rel="noreferrer">https://avglibor.herokuapp.com/estimator/</a>
+<br />
+<h3>(First released March 2020)</h3>
     </div>
 
     <div className='values-btns'>
