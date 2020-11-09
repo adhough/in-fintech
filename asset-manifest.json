@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/in-fintech/static/css/main.3f59a7b5.chunk.css",
+    "main.css": "/in-fintech/static/css/main.468edcbf.chunk.css",
     "main.js": "/in-fintech/static/js/main.f9c1b22b.chunk.js",
     "main.js.map": "/in-fintech/static/js/main.f9c1b22b.chunk.js.map",
     "runtime-main.js": "/in-fintech/static/js/runtime-main.10d9e516.js",
@@ -8,7 +8,7 @@
     "static/js/2.efe3400d.chunk.js": "/in-fintech/static/js/2.efe3400d.chunk.js",
     "static/js/2.efe3400d.chunk.js.map": "/in-fintech/static/js/2.efe3400d.chunk.js.map",
     "index.html": "/in-fintech/index.html",
-    "static/css/main.3f59a7b5.chunk.css.map": "/in-fintech/static/css/main.3f59a7b5.chunk.css.map",
+    "static/css/main.468edcbf.chunk.css.map": "/in-fintech/static/css/main.468edcbf.chunk.css.map",
     "static/js/2.efe3400d.chunk.js.LICENSE.txt": "/in-fintech/static/js/2.efe3400d.chunk.js.LICENSE.txt",
     "static/media/Adrian.844a6a59.png": "/in-fintech/static/media/Adrian.844a6a59.png",
     "static/media/Agile.7107127b.jpeg": "/in-fintech/static/media/Agile.7107127b.jpeg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.10d9e516.js",
     "static/js/2.efe3400d.chunk.js",
-    "static/css/main.3f59a7b5.chunk.css",
+    "static/css/main.468edcbf.chunk.css",
     "static/js/main.f9c1b22b.chunk.js"
   ]
 }
