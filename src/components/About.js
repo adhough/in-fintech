@@ -22,7 +22,7 @@ function AboutSection() {
     <br />
     <img src={AdrianPhoto} alt="Adrian" />
     <br />
-    <h3>Adrian Hough, BCom, MBA</h3>
+    <p><b>Adrian Hough, BCom, MBA</b></p>
 
     <br />
     <p>Finance and Technology professional who scopes, designs and delivers change management programmes across a diverse range of asset classes. Successful track record in implementing Risk and Financial Management process improvements, positively impacting businesses with multi-billion risk exposure in a constantly changing regulatory environment.</p>

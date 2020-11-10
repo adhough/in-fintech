@@ -9,7 +9,7 @@ video {
 .ethics-container {
   /* background: url('/images/Image4.jpeg') center center/cover no-repeat; */
   background-color: #394b66;
-  height: 240vh;
+  height: 230vh;
   width: 100%;
   display: flex;
   flex-direction: column;
