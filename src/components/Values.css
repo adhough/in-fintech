@@ -95,13 +95,13 @@ video {
     font-size: 30px;
   }
   .values-text-container {
-    height: 70%;
+    height: 80%;
     width: 70%;
     margin-left: 0%;
     margin-right: 0%;
   }
   .values-text-container > img{
-    height: 20%;
+    height: 10%;
     width: 50%;
     display: block;
     justify-content: center;
