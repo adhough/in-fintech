@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/in-fintech/static/css/main.567295f4.chunk.css",
-    "main.js": "/in-fintech/static/js/main.f9c1b22b.chunk.js",
-    "main.js.map": "/in-fintech/static/js/main.f9c1b22b.chunk.js.map",
+    "main.css": "/in-fintech/static/css/main.5ffac07d.chunk.css",
+    "main.js": "/in-fintech/static/js/main.3ac869dd.chunk.js",
+    "main.js.map": "/in-fintech/static/js/main.3ac869dd.chunk.js.map",
     "runtime-main.js": "/in-fintech/static/js/runtime-main.10d9e516.js",
     "runtime-main.js.map": "/in-fintech/static/js/runtime-main.10d9e516.js.map",
     "static/js/2.efe3400d.chunk.js": "/in-fintech/static/js/2.efe3400d.chunk.js",
     "static/js/2.efe3400d.chunk.js.map": "/in-fintech/static/js/2.efe3400d.chunk.js.map",
     "index.html": "/in-fintech/index.html",
-    "static/css/main.567295f4.chunk.css.map": "/in-fintech/static/css/main.567295f4.chunk.css.map",
+    "static/css/main.5ffac07d.chunk.css.map": "/in-fintech/static/css/main.5ffac07d.chunk.css.map",
     "static/js/2.efe3400d.chunk.js.LICENSE.txt": "/in-fintech/static/js/2.efe3400d.chunk.js.LICENSE.txt",
     "static/media/Adrian.844a6a59.png": "/in-fintech/static/media/Adrian.844a6a59.png",
     "static/media/Agile.7107127b.jpeg": "/in-fintech/static/media/Agile.7107127b.jpeg",
@@ -17,7 +17,7 @@
     "static/media/FXModel.ab4830fb.jpeg": "/in-fintech/static/media/FXModel.ab4830fb.jpeg",
     "static/media/EntrySection.css": "/in-fintech/static/media/Image1.a7e0869f.jpeg",
     "static/media/Image4.fa6ef7dc.jpeg": "/in-fintech/static/media/Image4.fa6ef7dc.jpeg",
-    "static/media/Contact.css": "/in-fintech/static/media/Image7.a6aca549.jpeg",
+    "static/media/Image7.a6aca549.jpeg": "/in-fintech/static/media/Image7.a6aca549.jpeg",
     "static/media/Libor.d87a758e.jpeg": "/in-fintech/static/media/Libor.d87a758e.jpeg",
     "static/media/London.199ee285.jpg": "/in-fintech/static/media/London.199ee285.jpg",
     "static/media/Presentation.4b7b9ab9.jpg": "/in-fintech/static/media/Presentation.4b7b9ab9.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.10d9e516.js",
     "static/js/2.efe3400d.chunk.js",
-    "static/css/main.567295f4.chunk.css",
-    "static/js/main.f9c1b22b.chunk.js"
+    "static/css/main.5ffac07d.chunk.css",
+    "static/js/main.3ac869dd.chunk.js"
   ]
 }
