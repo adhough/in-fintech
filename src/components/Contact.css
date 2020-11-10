@@ -47,6 +47,7 @@ video {
 .contact-text-container {
 
   background-color: #d1981f;
+  color: #fff;
   height: 70%;
   width: 40%;
   display: flex;
@@ -59,7 +60,7 @@ video {
   margin-right: 10%;
 }
 .contact-text-container > img{
-  height: 50%;
+  height: 60%;
   width: 90%;
   display: block;
   justify-content: center;
