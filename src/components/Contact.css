@@ -85,21 +85,24 @@ video {
 }
 
 @media screen and (max-width: 960px) {
+  .contact-container {
+    height: 500px;
+  }
   .contact-container > h1 {
     font-size: 70px;
     margin-top: 0px;
     height: 200px;
   }
   .contact-text-container > img{
-    height: 60%;
-    width: 90%;
+    height: 50%;
+    width: 100%;
 }
 }
 
 @media screen and (max-width: 768px) {
 
   .contact-container {
-    height: 500px;
+    height: 800px;
   }
   .contact-container > h1 {
     font-size: 50px;

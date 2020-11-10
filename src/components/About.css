@@ -108,7 +108,7 @@ video {
 
 @media screen and (max-width: 960px) {
   .about-container {
-    height: 200vh;
+    height: 170vh;
   }
   .about-container > h1 {
     font-size: 70px;
@@ -132,7 +132,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .about-container {
-    height: 130vh;
+    height: 110vh;
   }
   .about-container > h1 {
     font-size: 50px;
@@ -161,7 +161,7 @@ video {
     margin-right: 0%;
   }
   .about-adrian-container > img{
-    height: 30%;
+    height: 40%;
     width: 55%;
     display: block;
     justify-content: center;
