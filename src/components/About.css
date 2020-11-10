@@ -132,7 +132,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .about-container {
-    height: 200vh;
+    height: 130vh;
   }
   .about-container > h1 {
     font-size: 50px;
