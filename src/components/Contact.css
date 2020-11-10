@@ -11,7 +11,7 @@ video {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 140vh;
   width: 100%;
   display: flex;
   flex-direction: column;
@@ -47,7 +47,7 @@ video {
 }
 .contact-text-container {
 
-  background-color: #fff;
+  background-color: #d1981f;
   height: 50%;
   width: 40%;
   display: flex;
