@@ -7,7 +7,7 @@ video {
 }
 
 .contact-container {
-  background-image: url(../images/Image7.jpeg);
+  background-color: #d1981f;
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -58,6 +58,14 @@ video {
   padding: 16px;
   margin-left: 10%;
   margin-right: 10%;
+}
+.contact-text-container > img{
+  height: 40%;
+  width: 80%;
+  display: block;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
 }
 .contact-btns {
   margin-top: 32px;

@@ -3,15 +3,18 @@ import React from 'react';
 import '../App.css';
 import { Button } from './Button';
 import './Contact.css';
+import Image7 from '../images/Image7.jpeg'
 
 function ContactSection() {
   return (
     <div className='contact-container'>
     <h1>Contact</h1>
     <br />
-    <br />
       <div className='contact-text-container'>
-      <p>Please provide feedback on projects and articles.  Also contact 'in-fintech.com' for project proposals.</p>
+      <br />
+      <img src={Image7} alt="pine" />
+      <br />
+      <p>Please send feedback on projects and articles.  Also contact 'in-fintech.com' for project proposals.</p>
 
       <br />
       <br />
