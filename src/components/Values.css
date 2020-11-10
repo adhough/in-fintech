@@ -74,7 +74,7 @@ video {
     margin-top: 0px;
   }
   .values-container {
-    height: 105vh;
+    height: 200vh;
   }
   .values-text-container {
     height: 80%;
@@ -91,6 +91,7 @@ video {
   }
 
   .values-container > p {
+    height: 200vh;
     font-size: 30px;
   }
   .values-text-container {

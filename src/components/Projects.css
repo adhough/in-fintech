@@ -165,7 +165,7 @@ h1 {
     margin-top: 60px;
   }
   .project-container {
-    height: 250vh;
+    height: 300vh;
   }
 }
 
@@ -179,7 +179,7 @@ h1 {
     font-size: 30px;
   }
   .project-container {
-    height: 200vh;
+    height: 300vh;
   }
   .cards__wrapper {
     position: relative;
