@@ -96,6 +96,9 @@ video {
 }
 
 @media screen and (max-width: 768px) {
+  .secmodel-container {
+    height: 200vh;
+  }
   .secmodel-container > h1 {
     font-size: 50px;
     margin-top: -100px;
@@ -109,7 +112,7 @@ video {
     height: 60%;
   }
   .secmodel-project-container > img {
-    height: 50%;
+    height: 30%;
     width: 90%;
     border: 1px solid black;
 

@@ -93,7 +93,7 @@ video {
 
 @media screen and (max-width: 768px) {
   .fintech-container {
-    height: 400vh;
+    height: 600vh;
   }
   .fintech-container > h1 {
     font-size: 50px;

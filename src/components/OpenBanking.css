@@ -75,7 +75,7 @@ video {
 
 @media screen and (max-width: 960px) {
   .openbanking-container {
-    height: 200vh;
+    height: 400vh;
   }
   .openbanking-container > img {
     height: 20%;
